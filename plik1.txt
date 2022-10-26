@@ -1,5 +1,3 @@
-git coś
-zmiana 
-zzzz
-git add .
-
+Coś jeszcze
+coś jezcze 1
+test 2
