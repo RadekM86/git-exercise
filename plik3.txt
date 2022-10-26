@@ -2,3 +2,4 @@ plik3
 plik3 ZMIANY
 zmiany 2
 zmiany zmiany
+zmiana z ficzer brancha
