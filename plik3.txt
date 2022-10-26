@@ -4,3 +4,4 @@ zmiany 2
 zmiany zmiany
 zmiana z ficzer brancha
 zmiany z ficze brancha 2
+ff
